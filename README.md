@@ -17,4 +17,9 @@ CPU：MOS 6507 1.19MHz
 (1992年1月1日停止发售)中一共售出了3000万台。  
 引用自机锋网：http://bbs.gfan.com/android-6736020-1-1.html
 ```
-
+**BatariBasic官网** 雅达利游戏开发编译工具+ IDE + DASM  
+http://bataribasic.com/  
+**Stella模拟器官网** 支持Win，Mac  
+https://stella-emu.github.io/  
+**z26模拟器官网** 额外支持linux  
+http://www.whimsey.com/z26/z26.html
