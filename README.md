@@ -22,4 +22,12 @@ http://bataribasic.com/
 **Stella模拟器官网** 支持Win，Mac  
 https://stella-emu.github.io/  
 **z26模拟器官网** 额外支持linux  
-http://www.whimsey.com/z26/z26.html
+http://www.whimsey.com/z26/z26.html  
+
+**雅达利开发者论坛**   
+http://atariage.com/forums/forum/50-atari-2600-programming/  
+**BatariBasic开发工具下载地址**  
+http://7800.8bitdev.org/index.php/Batari_basic  
+**BatariBasic开发工具介绍** 
+http://www.randomterrain.com/atari-2600-memories-batari-basic-commands.html  
+
